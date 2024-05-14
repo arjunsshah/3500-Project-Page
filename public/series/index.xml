@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 3500 Project Page</title>
-    <link>https://arjunsshah.github.io/3500-Project-Page/series/</link>
+    <link>http://localhost:1313/3500-Project-Page/series/</link>
     <description>Recent content in Series on 3500 Project Page</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Arjun Shah</copyright>
-    <atom:link href="https://arjunsshah.github.io/3500-Project-Page/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/3500-Project-Page/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

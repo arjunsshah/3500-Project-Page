@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://arjunsshah.github.io/3500-Project-Page/sitemap.xml
+Disallow: /
